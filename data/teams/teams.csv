@@ -1,0 +1,33 @@
+name,fifa_code,group_name,region,ranking
+Qatar,QAT,A,Asia,50
+Ecuador,ECU,A,South America,44
+Senegal,SEN,A,Africa,18
+Netherlands,NED,A,Europe,8
+England,ENG,B,Europe,5
+Iran,IRN,B,Asia,20
+United States,USA,B,North America,16
+Wales,WAL,B,Europe,19
+Argentina,ARG,C,South America,3
+Saudi Arabia,KSA,C,Asia,51
+Mexico,MEX,C,North America,13
+Poland,POL,C,Europe,26
+France,FRA,D,Europe,4
+Australia,AUS,D,Oceania,38
+Denmark,DEN,D,Europe,10
+Tunisia,TUN,D,Africa,30
+Spain,ESP,E,Europe,7
+Costa Rica,CRC,E,North America,31
+Germany,GER,E,Europe,12
+Japan,JPN,E,Asia,24
+Belgium,BEL,F,Europe,2
+Canada,CAN,F,North America,41
+Morocco,MAR,F,Africa,22
+Croatia,CRO,F,Europe,15
+Brazil,BRA,G,South America,1
+Serbia,SRB,G,Europe,21
+Switzerland,SUI,G,Europe,15
+Cameroon,CMR,G,Africa,43
+Portugal,POR,H,Europe,9
+Ghana,GHA,H,Africa,61
+Uruguay,URU,H,South America,14
+South Korea,KOR,H,Asia,28

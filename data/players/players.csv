@@ -1,0 +1,100 @@
+team_code,name,position,age,caps,goals
+BRA,Alisson Becker,GK,30,67,0
+BRA,Thiago Silva,DEF,38,107,7
+BRA,Marquinhos,DEF,28,71,8
+BRA,Casemiro,MID,30,69,7
+BRA,Neymar Jr,FWD,30,120,77
+BRA,Vinicius Jr,FWD,22,19,4
+BRA,Richarlison,FWD,25,36,19
+ARG,Emiliano Martinez,GK,30,23,0
+ARG,Nicolas Otamendi,DEF,34,101,8
+ARG,Cristian Romero,DEF,24,20,2
+ARG,Lionel Messi,FWD,35,166,98
+ARG,Angel Di Maria,FWD,34,128,29
+ARG,Lautaro Martinez,FWD,25,42,21
+FRA,Hugo Lloris,GK,36,145,0
+FRA,Raphael Varane,DEF,29,93,5
+FRA,Antoine Griezmann,MID,31,112,42
+FRA,Kylian Mbappe,FWD,23,62,36
+FRA,Karim Benzema,FWD,34,97,37
+ENG,Jordan Pickford,GK,28,48,0
+ENG,Harry Maguire,DEF,29,54,7
+ENG,Declan Rice,MID,23,29,3
+ENG,Harry Kane,FWD,29,78,53
+ENG,Bukayo Saka,FWD,21,22,9
+ESP,Unai Simon,GK,25,21,0
+ESP,Rodri,MID,26,33,7
+ESP,Pedri,MID,20,17,4
+ESP,Ferran Torres,FWD,22,29,14
+GER,Manuel Neuer,GK,36,113,0
+GER,Antonio Rudiger,DEF,29,57,2
+GER,Joshua Kimmich,MID,27,64,7
+GER,Thomas Muller,FWD,33,120,44
+GER,Serge Gnabry,FWD,27,38,20
+POR,Diogo Costa,GK,23,10,0
+POR,Ruben Dias,DEF,25,43,3
+POR,Bruno Fernandes,MID,28,57,20
+POR,Cristiano Ronaldo,FWD,37,191,117
+POR,Joao Felix,FWD,23,26,9
+BEL,Thibaut Courtois,GK,30,97,0
+BEL,Toby Alderweireld,DEF,33,127,11
+BEL,Kevin De Bruyne,MID,31,95,25
+BEL,Romelu Lukaku,FWD,29,102,68
+CRO,Dominik Livakovic,GK,27,28,0
+CRO,Dejan Lovren,DEF,33,80,3
+CRO,Luka Modric,MID,37,161,22
+CRO,Ivan Perisic,FWD,33,116,33
+NED,Virgil van Dijk,DEF,31,50,5
+NED,Frenkie de Jong,MID,25,45,3
+NED,Memphis Depay,FWD,28,82,42
+URU,Fernando Muslera,GK,36,143,0
+URU,Diego Godin,DEF,36,160,16
+URU,Luis Suarez,FWD,35,135,68
+URU,Darwin Nunez,FWD,23,18,8
+USA,Matt Turner,GK,28,20,0
+USA,Christian Pulisic,MID,24,56,22
+USA,Tyler Adams,MID,23,30,1
+MAR,Yassine Bounou,GK,31,42,0
+MAR,Achraf Hakimi,DEF,24,55,6
+MAR,Hakim Ziyech,MID,29,60,19
+SEN,Edouard Mendy,GK,30,32,0
+SEN,Kalidou Koulibaly,DEF,31,73,6
+SEN,Sadio Mane,FWD,30,91,34
+JPN,Shuichi Gonda,GK,33,38,0
+JPN,Maya Yoshida,DEF,34,118,19
+JPN,Takumi Minamino,MID,28,52,17
+KOR,Kim Seung-gyu,GK,34,56,0
+KOR,Kim Min-jae,DEF,26,42,5
+KOR,Son Heung-min,FWD,30,109,35
+GHA,Joseph Wollacott,GK,26,18,0
+GHA,Daniel Amartey,DEF,27,41,5
+GHA,Mohammed Kudus,MID,22,26,8
+CMR,Andre Onana,GK,26,27,0
+CMR,Vincent Aboubakar,FWD,30,100,33
+QAT,Meshaal Barsham,GK,24,20,0
+QAT,Almoez Ali,FWD,26,84,42
+ECU,Hernan Galindez,GK,34,23,0
+ECU,Enner Valencia,FWD,33,75,37
+IRN,Alireza Beiranvand,GK,30,71,0
+IRN,Mehdi Taremi,FWD,30,84,44
+KSA,Mohammed Al-Owais,GK,31,55,0
+KSA,Saleh Al-Shehri,FWD,29,34,18
+POL,Wojciech Szczesny,GK,32,68,0
+POL,Robert Lewandowski,FWD,34,137,79
+AUS,Mathew Ryan,GK,30,73,0
+AUS,Mathew Leckie,FWD,31,75,13
+DEN,Kasper Schmeichel,GK,36,94,0
+DEN,Christian Eriksen,MID,30,122,41
+TUN,Aymen Dahmen,GK,26,21,0
+TUN,Wahbi Khazri,FWD,31,68,24
+CAN,Milan Borjan,GK,34,50,0
+CAN,Alphonso Davies,DEF,22,36,11
+CRC,Keylor Navas,GK,35,122,0
+CRC,Joel Campbell,FWD,30,109,29
+WAL,Wayne Hennessey,GK,35,107,0
+WAL,Gareth Bale,FWD,33,109,41
+SRB,Vanja Milinkovic-Savic,GK,25,24,0
+SRB,Aleksandar Mitrovic,FWD,28,71,52
+SUI,Yann Sommer,GK,33,86,0
+SUI,Granit Xhaka,MID,30,108,16
+SUI,Xherdan Shaqiri,FWD,30,107,32
